@@ -18,7 +18,7 @@ load_css()
 # Your Streamlit app code goes here
 file_paths = [
     'data/01_District_wise_crimes_committed_IPC_2013.csv',
-    'data/01_District_wise_crimes_committed_IPC_2001_2012.csv',
+    'data/02_01_District_wise_crimes_committed_against_SC_2001_2012',
     'data/01_District_wise_crimes_committed_IPC_2014.csv',
 
     # Add paths for other years as needed
